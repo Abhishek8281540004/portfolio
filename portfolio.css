@@ -1,0 +1,56 @@
+.img{
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+    border-radius: 700px;
+}
+.main{
+    background-color: aqua;
+}
+.section{
+    display: flex;
+}
+.para{
+    margin-top: 60px;
+}
+.row1{
+    display: flex;
+    gap: 100px;
+  justify-content: center;
+  margin-top: 50px;
+}
+.row2{
+    display: flex;
+    gap: 100px;
+  justify-content: center;
+  margin-top: 50px;
+}
+.card{
+    text-align: center;
+    
+}
+.h{
+    margin-left: 40rem;
+    margin-top: 20px;
+}
+.service{
+    background-color: aquamarine;
+}
+.row3{
+    display: flex;
+    gap: 100px;
+  justify-content: center;
+  margin-top: 50px;
+}
+.form{
+    width: 600px;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 40px;
+}
+.footer{
+    background-color: rgb(56, 207, 26);
+    height: 100px;
+    margin-top: 20px;
+
+}
